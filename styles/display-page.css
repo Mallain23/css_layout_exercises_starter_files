@@ -5,5 +5,39 @@
   width: 800px;
   height: 500px;
   margin-top: 200px;
-  margin-bottom: 200px
+  margin-bottom: 200px;
+  font-size: 0;
+}
+
+.box {
+  border: 1px solid black;
+}
+
+.half {
+  width: 50%;
+  display: inline-block;
+  height: 200px;
+
+}
+
+.green {
+  background-color: green;
+}
+.blue {
+  background-color: blue;
+}
+
+.black {
+  background-color: black;
+}
+.yellow{
+  background-color: yellow;
+}
+.grey {
+  background-color: grey;
+}
+.third {
+  width: 33.33%;
+  height: 300px;
+  display: inline-block;
 }
