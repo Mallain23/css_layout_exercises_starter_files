@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.nebula-img {
+  float: left;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+}
+
+
+.star-img {
+  float: right;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+}
